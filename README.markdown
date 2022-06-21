@@ -1,6 +1,7 @@
 # Generic Colouriser
+Actualizado por Calivent
 
-Radovan Garabík  <http://kassiopeia.juls.savba.sk/~garabik/software/grc.html> (garabik @ kassiopeia.juls.savba.sk)
+FORK de Radovan Garabík  <http://kassiopeia.juls.savba.sk/~garabik/software/grc.html> (garabik @ kassiopeia.juls.savba.sk)
 
 For the impatient - try following commands:
 
